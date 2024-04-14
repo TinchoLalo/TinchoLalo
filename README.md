@@ -19,7 +19,7 @@ Mi incursión en el desarrollo de videojuegos me llevó a crear mi propio juego 
 Actualmente, me desempeño como ayudante de cátedra en Algoritmos y Estructura de Datos, donde disfruto enseñando a los alumnos de primer año los fundamentos de la programación. Además desarrollé una plataforma web para que los profesores puedan crear, editar y corregir exámenes de programación de forma fácil y segura.
 También formo parte de un grupo de Robótica y Tecnología de la facultad, en el cual me encuentro aprendiendo tanto como enseñando a los nuevos ingresantes.
 
-## Tecnologías que utilizo
+## 🚀 Tecnologías que utilizo
 
 - JavaScript
 - Python
