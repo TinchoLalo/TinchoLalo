@@ -22,12 +22,14 @@ También soy profesor de robótica en el Instituto Nómade Makerspace.
 ## 🚀 Tecnologías que utilizo
 
 - JavaScript
+- TypeScript
+- Node.js
 - Python
 - C#
-- Arduino
-- HTML
-- CSS
+- Arduino y Raspberry
+- HTML y CSS
 - React JS
+- React Native
 - Svelte JS
 - Firebase
 - PostgreSQL
